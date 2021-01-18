@@ -192,3 +192,10 @@ function arraysAreEqual(arr1, arr2) {
 startGame();
 ```
 </details>
+
+
+### **3 Areas of Improvement:**
+1. Comments aren't completely sufficient throughout the code. While there were comments, it would have been much more beneficial to explain each section of the code to further explain how it all works together.</br></br>
+2. Loops located in rollBackHistory should be reformatted to a single if-esle loop, rather than two seperate if statements, this would be a much cleaner control flow.</br></br>
+3. Indentation used to clean up some of the Functions/Arrays have irregular indentation. Many CONST elements and nested loops were not indented correctly, and correct indentation is absolutely essential when writing code.
+---
