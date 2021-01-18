@@ -1,4 +1,4 @@
-# DGL104 Process Portfolio
+# **DGL104 Process Portfolio**
 ## Ryan Dragon - N0180886
 ---
 ## **Activity 0101:**
