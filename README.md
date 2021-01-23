@@ -2,12 +2,21 @@
 ## Ryan Dragon - N0180886
 ---
 ## **Activity 0101:**
-> During the first semester of my Web and Mobile Application Development Diploma program, I struggled to work out what loops to use in specific situations. After learning and experiencing multiple coding languages, I learned the difference between loops such as for, for-in, while, etc. Once I started to become more comfortable with the code, I was able to confidently browse W3Schools and past assignments if I ever had issues come up again. With this deeper understanding I was able to effectively find solutions to a wide array of issues I have encountered over the last year and a half.
-## **Activity 0102:**
-### *Example Code:*
 
 <details>
-<summary>Click to Expand Code</summary>
+<summary>Click to expand code</summary>
+
+During the first semester of my Web and Mobile Application Development Diploma program, I struggled to work out what loops to use in specific situations. After learning and experiencing multiple coding languages, I learned the difference between loops such as for, for-in, while, etc. Once I started to become more comfortable with the code, I was able to confidently browse W3Schools and past assignments if I ever had issues come up again. With this deeper understanding I was able to effectively find solutions to a wide array of issues I have encountered over the last year and a half.
+
+</details>
+
+## **Activity 0102:**
+
+<details>
+<summary>Click to expand code</summary>
+
+<details>
+<summary>Example Code</summary>
 
 ```javascript
 "use strict";
@@ -198,4 +207,13 @@ startGame();
 1. Comments aren't completely sufficient throughout the code. While there were comments, it would have been much more beneficial to explain each section of the code to further explain how it all works together.</br></br>
 2. Loops located in rollBackHistory should be reformatted to a single if-esle loop, rather than two seperate if statements, this would be a much cleaner control flow.</br></br>
 3. Indentation used to clean up some of the Functions/Arrays have irregular indentation. Many CONST elements and nested loops were not indented correctly, and correct indentation is absolutely essential when writing code.
+
+</details>
+
+
 ---
+
+<details>
+<summary></summary>
+
+</details>
