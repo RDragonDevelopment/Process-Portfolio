@@ -1,6 +1,7 @@
 # **DGL104 Process Portfolio**
 ## Ryan Dragon - N0180886
 ---
+---
 ## **Activity 0101:**
 
 <details>
@@ -212,8 +213,25 @@ startGame();
 
 
 ---
+---
 
+## **Activity 0201:**
 <details>
-<summary></summary>
+<summary>Click to expand code</summary>
+
+
 
 </details>
+
+---
+
+## **Activity 0202:**
+<details>
+<summary>Click to expand code</summary>
+
+
+
+</details>
+
+---
+---
