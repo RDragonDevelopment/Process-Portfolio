@@ -5,7 +5,7 @@
 ## **Activity 0101:**
 
 <details>
-<summary>Click to expand code</summary>
+<summary>Click to expand answer</summary>
 
 During the first semester of my Web and Mobile Application Development Diploma program, I struggled to work out what loops to use in specific situations. After learning and experiencing multiple coding languages, I learned the difference between loops such as for, for-in, while, etc. Once I started to become more comfortable with the code, I was able to confidently browse W3Schools and past assignments if I ever had issues come up again. With this deeper understanding I was able to effectively find solutions to a wide array of issues I have encountered over the last year and a half.
 
@@ -14,7 +14,7 @@ During the first semester of my Web and Mobile Application Development Diploma p
 ## **Activity 0102:**
 
 <details>
-<summary>Click to expand code</summary>
+<summary>Click to expand answer</summary>
 
 <details>
 <summary>Example Code</summary>
@@ -217,7 +217,7 @@ startGame();
 
 ## **Activity 0201:**
 <details>
-<summary>Click to expand code</summary>
+<summary>Click to expand answer</summary>
 
 ## **App Chosen:** *TikTok*
 > The values inherent to TikTok helped me identify the target user base as those who are "Generation Z". Younger individuals have a high attachment to social media, and being able to post and share content with others has always been a great way to captivate a young audience. By entertaining, educating (in some ways), it earns people money, it informs, and it also serves as a distraction and is a way to pass time. All of those values make TikTok much more attractive.
@@ -228,7 +228,7 @@ startGame();
 
 ## **Activity 0202:**
 <details>
-<summary>Click to expand code</summary>
+<summary>Click to expand answer</summary>
 
 <details>
 <summary>Example Code</summary>
@@ -423,3 +423,17 @@ startGame();
 
 ---
 ---
+
+## **Activity 0301:**
+<details>
+<summary>Click to expand answer</summary>
+
+</details>
+
+---
+
+## **Activity 0302:**
+<details>
+<summary>Click to expand answer</summary>
+
+</details>
