@@ -428,6 +428,12 @@ startGame();
 <details>
 <summary>Click to expand answer</summary>
 
+## **App Chosen:** *Instagram*
+### \**I do not have access to an android device, so I've opted to using the progressive web version vs. the iOS version.*\*
+
+| Web Version  | iOS Version |
+| ------------- | ------------- |
+
 </details>
 
 ---
