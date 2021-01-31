@@ -432,7 +432,7 @@ startGame();
 ### \**I do not have access to an android device, so I've opted to using the progressive web version vs. the iOS version.*\*
 
 | Web Version  | iOS Version |
-| ------------- | ------------- |
+| ![Web Version](https://github.com/n0180886/DGL114-Process-Portfolio/blob/main/images/bad_interface.PNG?raw=true) | ![iOS Version](https://github.com/n0180886/DGL114-Process-Portfolio/blob/main/images/bad_interface.PNG?raw=true) |
 
 </details>
 
