@@ -435,7 +435,12 @@ startGame();
 | --- | --- |
 |![Web Version](https://github.com/n0180886/Process-Portfolio/blob/main/images/webApp.PNG?raw=true)|![iOS Version](https://github.com/n0180886/Process-Portfolio/blob/main/images/iOS.PNG?raw=true)|
 
-
+## Differences:
+- iOS utilizes space on the screen.
+- webApp does not utilize dark mode through phone settings. I believe 
+- webApp includes app name in header
+- no need to have app downloaded and updates on webApp, latest updates will automatically be loaded when page loads.
+- pages and content loaded much faster on native app.
 
 </details>
 
@@ -446,3 +451,6 @@ startGame();
 <summary>Click to expand answer</summary>
 
 </details>
+
+---
+---
