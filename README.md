@@ -452,7 +452,7 @@ startGame();
 
 ## **Developer Document chosen:** [Apple Developer Technologies](https://developer.apple.com/documentation/technologies)
 
-> The section I decided to look at is the [Apple Pay on the Web](https://developer.apple.com/documentation/apple_pay_on_the_web) section. It was laid out very clearly, with lots of whitespace and it make each step of the process obvious to the reader. It provided insight into each aspect of implementing apple pay using a javascript-based API.
+> The section I decided to look at is the [Apple Pay on the Web](https://developer.apple.com/documentation/apple_pay_on_the_web) section. It was laid out very clearly, with lots of whitespace and it make each step of the process obvious to the reader. It provided insight into each aspect of implementing apple pay using a javascript-based API. Throughout the documentation, there are countless threads of information to thoroughly introduce you to different API's, concepts, and their functionality.
 
 </details>
 
