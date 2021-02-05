@@ -463,6 +463,10 @@ startGame();
 <details>
 <summary>Click to expand answer</summary>
 
+## **Pattern Chosen:** [Bond Personal Security](https://pttrns.com/applications/763#8950)
+
+> I believe this pattern is effective not only for its use of intelligence and also one-handed use. The most important functions on screen are in an easy to access part of the screen making it much easier for the user to manage and navigate.
+
 
 </details>
 
@@ -471,6 +475,7 @@ startGame();
 ## **Activity 0402:**
 <details>
 <summary>Click to expand answer</summary>
+
 
 
 </details>
