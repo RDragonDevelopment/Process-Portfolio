@@ -458,3 +458,19 @@ startGame();
 
 ---
 ---
+
+## **Activity 0401:**
+<details>
+<summary>Click to expand answer</summary>
+
+
+</details>
+
+---
+
+## **Activity 0402:**
+<details>
+<summary>Click to expand answer</summary>
+
+
+</details>
