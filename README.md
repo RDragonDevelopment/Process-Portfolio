@@ -476,6 +476,10 @@ startGame();
 <details>
 <summary>Click to expand answer</summary>
 
+## **Pseudo Class Chosen:** *Split2*
 
+### **Why?**
+
+> because split1 relies on opening a file for reading, while split2 uses a given line. A main benefit of coding orthgonol is to produce code that promotes reuse. Using a given line vs. a file would be much easier to use in the future, and can be easilly reconfigurable and reengineered.
 
 </details>
