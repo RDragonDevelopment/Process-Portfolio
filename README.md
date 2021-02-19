@@ -515,8 +515,7 @@ startGame();
 
 | Kata #1 | Kata #2 |
 | --- | --- |
-|![Kata #1](https://github.com/n0180886/Process-Portfolio/blob/main/images/Kata_#1.JPG?raw=true)|![Kata #2](https://github.com/n0180886/Process-Portfolio/blob/main/images/iOS.PNG?raw=true)|
-| stuff | stuff |
+|![Kata #1](https://github.com/n0180886/Process-Portfolio/blob/main/images/Kata_1.JPG?raw=true)|![Kata #2](https://github.com/n0180886/Process-Portfolio/blob/main/images/Kata_1.JPG?raw=true)|
 
 </details>
 
