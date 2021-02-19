@@ -489,3 +489,36 @@ startGame();
 ---
 ---
 
+## **Activity 0501:**
+<details>
+<summary>Click to expand answer</summary>
+
+**MVC:**
+> Model, View, and Controller.
+> - Model acts as a model for the data within the app.
+> - View deals with what can be seen in the UI by a user.
+> - Controller controls the interaction between the Model and the View. The view and the model have no direct connection to eachother, but they both connect to the controller.
+
+**MVP:**
+> Very similar to the MVC architecture, but the controller is replaced with the presenter. The presenter is responsible for changing the view, as the view very rarely calls on the presenter. 
+
+**MVVM:**
+> The MVVM (Model, View, View-Model) architecture is where data binding really holds strong. Data Binding is when UI components located in thje layout/view are binded to data sources within the model of the app. For example, if a slider present on the page is changed, not only would the model be updated, but if the data was displayed as a text on the view, that value would update as well.
+
+</details>
+
+---
+
+## **Activity 0503:**
+<details>
+<summary>Click to expand answer</summary>
+
+| Kata #1 | Kata #2 |
+| --- | --- |
+|![Kata #1](https://github.com/n0180886/Process-Portfolio/blob/main/images/Kata_#1.JPG?raw=true)|![Kata #2](https://github.com/n0180886/Process-Portfolio/blob/main/images/iOS.PNG?raw=true)|
+| stuff | stuff |
+
+</details>
+
+---
+---
