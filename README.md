@@ -521,3 +521,25 @@ startGame();
 
 ---
 ---
+
+## **Activity 0801:**
+<details>
+<summary>Click to expand answer</summary>
+
+
+
+</details>
+
+---
+
+## **Activity 0802:**
+<details>
+<summary>Click to expand answer</summary>
+
+## **App Chosen:** *Snapchat*
+> The resources critical to the functionality of the Snapchat app in my opinion would be primarily disk space, while still requiring ample power, processing and sensor usage. The sensors on the phone would be used to determine speed, height, temperature etc that are available to be shown on different 'filters' offered inside the app. The app also keeps a local copy of all 'stories' and snapchats(when told) on the app, this can accumulate very fast meaning you would need ample storage. 
+
+</details>
+
+---
+---
