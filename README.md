@@ -526,7 +526,11 @@ startGame();
 <details>
 <summary>Click to expand answer</summary>
 
+> MVI is a uni-diurectional flow, example: View -> ViewModel -> Model -> View...
 
+> MVI is Different than MVC as MVC has a high level of coupling between it's components, while MVI does not.
+
+> All in all, each architechture has it's benefits. MVI would be best for scalability, MVC would be good for smaller projects as it requires less code, MVP would be much more reusable and easier to test, and MVVM is similar to MVP but without the coupling between the ViewModel and the View.
 
 </details>
 
@@ -537,7 +541,11 @@ startGame();
 <summary>Click to expand answer</summary>
 
 ## **App Chosen:** *Snapchat*
-> The resources critical to the functionality of the Snapchat app in my opinion would be primarily disk space, while still requiring ample power, processing and sensor usage. The sensors on the phone would be used to determine speed, height, temperature etc that are available to be shown on different 'filters' offered inside the app. The app also keeps a local copy of all 'stories' and snapchats(when told) on the app, this can accumulate very fast meaning you would need ample storage. 
+- The resources critical to the functionality of the Snapchat app in my opinion would be primarily disk space, while still requiring ample power, processing and sensor usage. 
+
+- The sensors on the phone would be used to determine speed, height, temperature etc that are available to be shown on different 'filters' offered inside the app. 
+
+- The app also keeps a local copy of all 'stories' and snapchats(when told) on the app, this can accumulate very fast meaning you would need ample storage.
 
 </details>
 
