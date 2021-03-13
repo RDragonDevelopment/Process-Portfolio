@@ -594,11 +594,21 @@ Offline Usage:
 
 ---
 
-## **Activity 0902:**
+## **Activity 0903:**
 <details>
 <summary>Click to expand answer</summary>
 
+### **Which of the 4 steps have I used before?**
+<p>I have used all of the steps before. Studying the data, hypothesizing, experimenting, and repeating those 3 steps.</p>
 
+### **Is there one step that you feel you've done particularly well?**
+> I believe I am strongest with experimenting. When something doesn't work as I intended, I tend to try multiple different things before I proceed. Finding different ways to achieve the same outcome is very rewarding, sometimes you can find much more efficient methods.
+
+### **Is there one step that you feel you could improve on?**
+> Hypothesizing. I have problems with this because I cannot visualize it in my mind on how it could work exactly, without writing the code down. Having the code in front of me and testing different methods is the only way I can bug-fix.
+
+### **Might there be situations where this four step process won't work?**
+> In the event there are no code errors, compiles correctly, but still doesn't work, I don't think this method would work as intended. When there is absolutely no clue where the error exists, you would not be able to hypothesize the answer, and you would not know where to start experimenting with the code.
 
 </details>
 
