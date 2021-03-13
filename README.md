@@ -551,3 +551,56 @@ startGame();
 
 ---
 ---
+
+## **Activity 0901:**
+<details>
+<summary>Click to expand answer</summary>
+
+## **Apps Chosen:** *8Ball Pool* & *Domino's*
+---
+### **8Ball Pool:**
+<p>
+Use of notifications:
+</p>
+
+- Notifies user to use 'Loot Crate' system in the app, only after app is closed.
+- Notifies user of friends active on game, again only after app is closed.
+- Passage of time during loading screen shows the user a loading percentage, and a button that offers to play offline in the event that loading online data fails.
+
+<p>
+Offline Usage:
+</p>
+
+- Gives player two options: 1, play the game with a friend on the same device by passing the phone back and forth. 2, 
+
+---
+
+### **Domino's:**
+<p>
+Use of notifications:
+</p>
+
+- Passage of time is shown in the loading screen with a small loading icon, no show of percentage or time loading.
+- Notifications are sent when new deals are presented, usually as a CTA to drive sales.
+- Notifications are also sent when pizza order status has been updated.
+
+<p>
+Offline Usage:
+</p>
+
+- App is unable to be used offline.
+
+</details>
+
+---
+
+## **Activity 0902:**
+<details>
+<summary>Click to expand answer</summary>
+
+
+
+</details>
+
+---
+---
