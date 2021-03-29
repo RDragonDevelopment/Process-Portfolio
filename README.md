@@ -619,7 +619,7 @@ Offline Usage:
 <details>
 <summary>Click to expand answer</summary>
 
-
+<p>I've found myself programming by coincidence a few times throughout my schooling. During some projects/assignments I would go through various commands or functions not really knowing what the outcome would be. Once it worked as intended, I wouldn't think twice about why it worked. After reading how to program deliberately, I find that always being aware of what I'm doing ultimately helped me learn.</p>
 
 </details>
 
@@ -629,7 +629,7 @@ Offline Usage:
 <details>
 <summary>Click to expand answer</summary>
 
-
+<p>Assertions would have helped me in many situations. Situations where an integer/double produced was incorrect but would carry on and eventually give me a false response, it would have been nice to know what that value was without having to debug and figure it out as the code progresses. </p>
 
 </details>
 
