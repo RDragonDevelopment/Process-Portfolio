@@ -650,7 +650,11 @@ Offline Usage:
 <details>
 <summary>Click to expand answer</summary>
 
+## **Chosen IDE:** *Visual Studio Code*
 
+### **Feature:** *Rename Symbol using F2*
+
+<p>When a variable is selected, user can press 'F2' and enter a new name. Once entered, will change name of variable throughout files where it is present.</p>
 
 </details>
 
