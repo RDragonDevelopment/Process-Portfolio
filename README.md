@@ -640,7 +640,24 @@ Offline Usage:
 <details>
 <summary>Click to expand answer</summary>
 
+## **Platform:** *Windows (primarily)*
 
+## <u>**Tools**</u>
+
+### **Katalon Studio**
+> Supports Rest, supports data-driven approach, can be used for automated testing, and suitable for non-techies as well as professionals.
+
+### **SoapUI**
+> Functional testing tool supporting REST and SOAP API's. Gives powerful data-driven testing with data loaded from files, databases, and excel.
+
+### **Postman**
+> Originally a chrome plugin, Postman is a good alternative for those who are less 'techy' and would like to stay away from the typical integrated developer environment.
+
+### **Tricentis**
+> Supports a large array of protocols such as HTTP(s) JMS, AMQP, Rabbit MQ, TIBCO EMS, SOAP, REST, IBM MQ,NET TCP. Promotes new technology to help maximize reuse and maintainability of automation.
+
+### **Apigee**
+> Apigee is a cross-cloud testing tool powered by javascript. Enables a user to easily create APi proxies, design deploy and scale API's, and instantly deploy them into the cloud. They also give their clients the option on on-premise or hybrid deployment models all within a single code-base.
 
 </details>
 
